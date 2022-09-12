@@ -20,7 +20,8 @@ p {
 /* Add styles here! */
 
 .max-width-wrapper {
-  padding: 72px 0px;
+  max-width: 600px;
+  margin: auto;
 }
 
 .intro-chunk {
@@ -48,9 +49,4 @@ main .max-width-wrapper {
   background-color: white;
   border-bottom: hsl(0deg, 0%, 40%) solid 8px;
   padding-top: 8px;
-}
-
-.centered-element {
-  max-width: 600px;
-  margin: auto;
 }
