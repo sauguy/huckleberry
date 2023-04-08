@@ -35,6 +35,7 @@ header {
 main {
   min-height: 100%;
   padding-top: 72px;
+  padding-bottom: 72px;
   background-color: hsl(0deg, 0%, 40%);
   border-top: 8px solid hsl(0deg, 0%, 60%);
 }
